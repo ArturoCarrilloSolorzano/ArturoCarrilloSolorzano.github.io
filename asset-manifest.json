@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.98f570e6.chunk.js",
-    "main.js.map": "/static/js/main.98f570e6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7dbe58fe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7dbe58fe.js.map",
-    "static/js/2.f81a8c9c.chunk.js": "/static/js/2.f81a8c9c.chunk.js",
-    "static/js/2.f81a8c9c.chunk.js.map": "/static/js/2.f81a8c9c.chunk.js.map",
-    "static/js/3.039378c6.chunk.js": "/static/js/3.039378c6.chunk.js",
-    "static/js/3.039378c6.chunk.js.map": "/static/js/3.039378c6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.f81a8c9c.chunk.js.LICENSE.txt": "/static/js/2.f81a8c9c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/ArturoCarrilloSolorzano.github.io/static/css/main.ab87e2d2.chunk.css",
+    "main.js": "/ArturoCarrilloSolorzano.github.io/static/js/main.cde95275.chunk.js",
+    "main.js.map": "/ArturoCarrilloSolorzano.github.io/static/js/main.cde95275.chunk.js.map",
+    "runtime-main.js": "/ArturoCarrilloSolorzano.github.io/static/js/runtime-main.268aabae.js",
+    "runtime-main.js.map": "/ArturoCarrilloSolorzano.github.io/static/js/runtime-main.268aabae.js.map",
+    "static/js/2.b8eb8618.chunk.js": "/ArturoCarrilloSolorzano.github.io/static/js/2.b8eb8618.chunk.js",
+    "static/js/2.b8eb8618.chunk.js.map": "/ArturoCarrilloSolorzano.github.io/static/js/2.b8eb8618.chunk.js.map",
+    "static/js/3.ea6fc2d2.chunk.js": "/ArturoCarrilloSolorzano.github.io/static/js/3.ea6fc2d2.chunk.js",
+    "static/js/3.ea6fc2d2.chunk.js.map": "/ArturoCarrilloSolorzano.github.io/static/js/3.ea6fc2d2.chunk.js.map",
+    "index.html": "/ArturoCarrilloSolorzano.github.io/index.html",
+    "static/css/main.ab87e2d2.chunk.css.map": "/ArturoCarrilloSolorzano.github.io/static/css/main.ab87e2d2.chunk.css.map",
+    "static/js/2.b8eb8618.chunk.js.LICENSE.txt": "/ArturoCarrilloSolorzano.github.io/static/js/2.b8eb8618.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ArturoCarrilloSolorzano.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dbe58fe.js",
-    "static/js/2.f81a8c9c.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.98f570e6.chunk.js"
+    "static/js/runtime-main.268aabae.js",
+    "static/js/2.b8eb8618.chunk.js",
+    "static/css/main.ab87e2d2.chunk.css",
+    "static/js/main.cde95275.chunk.js"
   ]
 }
