@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ab87e2d2.chunk.css",
-    "main.js": "/static/js/main.f568a0cf.chunk.js",
-    "main.js.map": "/static/js/main.f568a0cf.chunk.js.map",
+    "main.js": "/static/js/main.8791a45f.chunk.js",
+    "main.js.map": "/static/js/main.8791a45f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6be4c656.js",
     "runtime-main.js.map": "/static/js/runtime-main.6be4c656.js.map",
     "static/js/2.b8eb8618.chunk.js": "/static/js/2.b8eb8618.chunk.js",
@@ -12,12 +12,16 @@
     "index.html": "/index.html",
     "static/css/main.ab87e2d2.chunk.css.map": "/static/css/main.ab87e2d2.chunk.css.map",
     "static/js/2.b8eb8618.chunk.js.LICENSE.txt": "/static/js/2.b8eb8618.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "static/media/laravel.8b2939ca.png": "/static/media/laravel.8b2939ca.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/next.a725f5cb.png": "/static/media/next.a725f5cb.png",
+    "static/media/nodejs.abfaef34.png": "/static/media/nodejs.abfaef34.png",
+    "static/media/react.a544fd8c.png": "/static/media/react.a544fd8c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6be4c656.js",
     "static/js/2.b8eb8618.chunk.js",
     "static/css/main.ab87e2d2.chunk.css",
-    "static/js/main.f568a0cf.chunk.js"
+    "static/js/main.8791a45f.chunk.js"
   ]
 }
