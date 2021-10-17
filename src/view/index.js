@@ -77,8 +77,8 @@ export default function Curriculum() {
                             }}/>
                         </div>
                         <div className="mt-5 text-lg text-left">
-                        I am currently a student at the University of Guadalajara in Computer Engineering
-                        im also working as a freelancer i have worked on several web development and app proyects.
+                        I am currently a student at the University of Guadalajara in Computer Engineering.
+                        Im also working as a freelancer i have worked on several web development and app proyects.
                         I have experience on backend, frontend and devops. I really like working on JS based technologies such as React, React Native and Nodejs.
                         </div>
                         <div className="text-2xl mt-10">Technologies</div>
@@ -114,14 +114,12 @@ export default function Curriculum() {
                         </div>
                         <div className="mt-5 text-lg text-left">
                             <div className="grid grid-cols-4">
-                                <div>
+                                <div className="font-semibold">
                                     Freelancer
                                 </div>
                                 <div className="col-span-3">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                    Ingenear <br/>
+                                    Lawyers website and expedients system <br/>
                                 </div>
                             </div>
                         </div>
@@ -140,7 +138,7 @@ export default function Curriculum() {
                         </div>
                         <div className="mt-5 text-lg text-left">
                             <div className="grid grid-cols-4">
-                                <div className="mt-5">
+                                <div className="mt-5 font-semibold">
                                     University of Guadalajara
                                 </div>
                                 <div className="col-span-3 mt-5">
@@ -149,7 +147,7 @@ export default function Curriculum() {
                                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                                 </div>
-                                <div className="mt-5">
+                                <div className="mt-5 font-semibold">
                                     Industrial technical teaching center (CETI)
                                 </div>
                                 <div className="col-span-3 mt-5">
