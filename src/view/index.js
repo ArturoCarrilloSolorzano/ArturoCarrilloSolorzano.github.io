@@ -8,6 +8,7 @@ import laravel from '../technologies/laravel.png';
 import nodejs from '../technologies/nodejs.png';
 import reactImg from '../technologies/react.png';
 import nextImg from '../technologies/next.png';
+import { Link } from 'react-router-dom';
 
 export default function Curriculum() {
     return (
@@ -177,6 +178,23 @@ export default function Curriculum() {
                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                         </div>
+                    </div>
+                    <div>
+                        <div className="mt-20"/>
+                        <div className="text-4xl">School proyects</div>
+                        <div className="mt-2">
+                            <hr  style={{
+                                color: '#312e81',
+                                backgroundColor: '#312e81',
+                                height: 2,
+                                borderColor : '#312e81'
+                            }}/>
+                        </div>
+                            <Link to="/three">
+                                <div className="bg-indigo-500 flex-grow-0 hover:bg-indigo-400 mt-5">
+                                    <p className="text-white">Three.js</p>
+                                </div>
+                            </Link>
                     </div>
                 </div>
               </div>
