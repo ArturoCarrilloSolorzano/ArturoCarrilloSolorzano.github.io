@@ -35,10 +35,6 @@ export default function Curriculum() {
                                 <div className="text-gray-300 text-lg ml-5">+52 33 3723 7391</div>
                             </div>
                             <div className="flex pl-5 mt-5">
-                                <Twitter/>
-                                <div className="text-gray-300 text-lg ml-5">@kumbia_kim</div>
-                            </div>
-                            <div className="flex pl-5 mt-5">
                                 <Mail/>
                                 <div className="text-gray-300 text-lg ml-5">arturo.carrillo.solorzano@gmail.com</div>
                             </div>
